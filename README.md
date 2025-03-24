@@ -26,7 +26,7 @@ I'm a **Data Scientist & Analyst** with a passion for solving complex problems u
 - 🔄 **Automation & Cloud** (Google Cloud, AWS, API integrations)
 
 ### 📌 Featured Projects
-🔹 [**Taxi Demand in NYC Based on Events and Weather**](https://github.com/salehak/yellow-taxi-demand) - Predicting rental prices using time series modeling.
+🔹 [**Taxi Demand in NYC Based on Events and Weather**](https://github.com/salehak/yellow-taxi-demand) - Predicting demand for yellow taxis in a year using modeling.
 
 ### 🎯 Currently Working On
 - 🎓 Applying for **Graduate & Junior Data Science & Analytics Roles** 
