@@ -18,26 +18,24 @@ Here are some ideas to get you started:
 ## Hi there! 👋 I'm Saleha
 
 ### 🚀 About Me
-I'm a **Data Scientist & Analyst** with a passion for solving complex problems using data-driven insights. My work spans **machine learning, data analytics, and operation aut**, with a focus on delivering impactful solutions. Currently, I'm applying for **graduate roles in data analytics and data science**, and I'm building my portfolio to showcase my skills.
+I'm a **Data Scientist & Analyst** with a passion for solving complex problems using data-driven insights. My work spans **machine learning, data analytics, and operation automation**, with a focus on delivering impactful solutions. 
 
 ### 🔥 Skills & Interests
 - 📊 **Data Analytics** (Python, SQL, R, Excel, Power BI, Tableau, Looker Studio)
 - 🤖 **Machine Learning** (Scikit-learn, NLP, Forecasting)
 - 🔄 **Automation & Cloud** (Google Cloud, AWS, gspread, API integrations)
-- 📈 **Marketing & Business Insights** (Google Analytics, A/B Testing, Campaign Optimization)
 
 ### 📌 Featured Projects
 🔹 [**Taxi Demand in NYC Based on Events and Weather**](https://github.com/salehak/yellow-taxi-demand) - Predicting rental prices using time series modeling.
 
 ### 🎯 Currently Working On
 - 📂 Building my **Data Science + Analytics Portfolio**
-- 🎓 Applying for **Graduate & Junior Data Science Roles** (Sparro, RSM, Telstra, etc.)
-- ⚡ Experimenting with **ML and AI**
+- 🎓 Applying for **Graduate & Junior Data Science & Analytics Roles** 
+- ⚡ Experimenting with **ML and AI** and trying to become fluent in Python
 
 ### 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/saleha-khalid/)
 - 📧 [Email](mailto:salehakhalid4@gmail.com)
-- 📝 [Portfolio](#) (Coming Soon!)
 
 🚀 Let's collaborate and explore the power of data together!
 
