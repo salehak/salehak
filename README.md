@@ -23,15 +23,14 @@ I'm a **Data Scientist & Analyst** with a passion for solving complex problems u
 ### 🔥 Skills & Interests
 - 📊 **Data Analytics** (Python, SQL, R, Excel, Power BI, Tableau, Looker Studio)
 - 🤖 **Machine Learning** (Scikit-learn, NLP, Forecasting)
-- 🔄 **Automation & Cloud** (Google Cloud, AWS, gspread, API integrations)
+- 🔄 **Automation & Cloud** (Google Cloud, AWS, API integrations)
 
 ### 📌 Featured Projects
 🔹 [**Taxi Demand in NYC Based on Events and Weather**](https://github.com/salehak/yellow-taxi-demand) - Predicting rental prices using time series modeling.
 
 ### 🎯 Currently Working On
-- 📂 Building my **Data Science + Analytics Portfolio**
 - 🎓 Applying for **Graduate & Junior Data Science & Analytics Roles** 
-- ⚡ Experimenting with **ML and AI** and trying to become fluent in Python
+- ⚡ Experimenting with **ML and AI** and trying to become fluent in Python by learning about new packages
 
 ### 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/saleha-khalid/)
