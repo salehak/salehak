@@ -15,26 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! 👋 I'm Saleha
+## Hi, I'm Saleha 👋
 
-### 🚀 About Me
-I'm a **Data Scientist & Analyst** with a passion for solving complex problems using data-driven insights. My work spans **machine learning, data analytics, and operation automation**, with a focus on delivering impactful solutions. 
+Data Analyst with a Data Science degree from the University of Melbourne, based in Melbourne.
+I build data pipelines, dashboards and ML models that turn messy data into decisions.
 
-### 🔥 Skills & Interests
-- 📊 **Data Analytics** (Python, SQL, R, Excel, Power BI, Tableau, Looker Studio)
-- 🤖 **Machine Learning** (Scikit-learn, NLP, Forecasting)
-- 🔄 **Automation & Cloud** (Google Cloud, AWS, API integrations)
+**Highlights from industry**
+- Automated GCP reporting pipelines in Python: ~40 min → under 12 sec
+- Built 8+ BI dashboards (Looker Studio, Metabase, Databox) for marketing, product and exec teams
+- A/B testing and segmentation in SQL contributing to a ~7% conversion uplift
 
-### 📌 Featured Projects
-🔹 [**Taxi Demand in NYC Based on Events and Weather**](https://github.com/salehak/yellow-taxi-demand) - Predicting demand for yellow taxis in a year using modeling.
+### Featured projects
+| Project | What it shows | Stack |
+|---|---|---|
+| [World Cup 2026 Predictor](https://github.com/salehak/world-cup-2026) | ML match prediction; called the winner and both finalists | Python, XGBoost |
+| [Kitchen Assistant (GenAI)](https://github.com/salehak/kitchen-assistant-genAI) | RAG-based recipe assistant with dietary filtering | Python, Gemini, ChromaDB |
+| [NYC Taxi Demand](https://github.com/salehak/yellow-taxi-demand) | Demand forecasting from trips, weather and events | PySpark, scikit-learn |
+| H&M Recommender *(in progress)* | Product recommendation system | Python, Tensorflow |
 
-### 🎯 Currently Working On
-- 🎓 Applying for **Graduate & Junior Data Science & Analytics Roles** 
-- ⚡ Experimenting with **ML and AI** and trying to become fluent in Python by learning about new packages
+### Toolkit
+**Languages:** Python, SQL, R  
+**Data/ML:** pandas, NumPy, scikit-learn, XGBoost, PySpark  
+**BI:** Power BI, Looker Studio, Metabase, Tableau  
+**Cloud/DB:** Google Cloud Platform, PostgreSQL, MySQL
 
-### 📬 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/saleha-khalid/)
-- 📧 [Email](mailto:salehakhalid4@gmail.com)
+### Currently
+- Building an H&M product recommendation system
+- Rebuilding the Kitchen Assistant as a deployable FastAPI + React app
+- Open to data analyst / data science roles in Australia
 
-🚀 Let's collaborate and explore the power of data together!
+📫 [LinkedIn](https://www.linkedin.com/in/saleha-khalid/) · [Email](mailto:salehakhalid4@gmail.com)
 
