@@ -31,6 +31,7 @@ I build data pipelines, dashboards and ML models that turn messy data into decis
 | [World Cup 2026 Predictor](https://github.com/salehak/world-cup-2026) | ML match prediction; called the winner and both finalists | Python, XGBoost |
 | [Kitchen Assistant (GenAI)](https://github.com/salehak/kitchen-assistant-genAI) | RAG-based recipe assistant with dietary filtering | Python, Gemini, ChromaDB |
 | [NYC Taxi Demand](https://github.com/salehak/yellow-taxi-demand) | Demand forecasting from trips, weather and events | PySpark, scikit-learn |
+| [Rental Forecasts in Victoria (2025-2027)](https://github.com/salehak/vic-rental-projections) | Rental forecasting from historical data, population, crime, and facilities available | Python, scikit-learn |
 | H&M Recommender *(in progress)* | Product recommendation system | Python, Tensorflow |
 
 ### Toolkit
